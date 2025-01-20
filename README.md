@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- 💻 I'm a .NET Developer passionate about building scalable and efficient software solutions.<br><br>- 🎓 Currently studying Computer Science at the Faculdade de Informática e Administração Paulista (FIAP).<br><br>- 🚀 Seeking opportunities to grow, learn, and contribute in the field of software development.<br><br>Feel free to explore my repositories and connect!</p>
+<p align="left">- 💻 I'm a .NET Developer passionate about building scalable and efficient software solutions.<br><br>- 🎓 Currently studying 
+Systems Analysis and Development at the Faculdade de Informática e Administração Paulista (FIAP).<br><br>- 🚀 Seeking opportunities to grow, learn, and contribute in the field of software development.<br><br>Feel free to explore my repositories and connect!</p>
 
 ###
 
